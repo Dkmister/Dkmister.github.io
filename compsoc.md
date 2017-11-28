@@ -12,3 +12,4 @@ permalink: /compsoc/
  
  <a href="https://drive.google.com/open?id=0B5V4-gDXyXF2ODh3cGxxcnYyR1k">Crítica sobre Inteligência Artificial </a>
 
+ <a href ="https://docs.google.com/document/d/1izQIIFQSfADSqNyP8vzECnkmI6ZD96fyMZbvKiKjrSc/edit?usp=sharing">Resenha sobre o artigo Why social media may not be so good for democracy </a>
