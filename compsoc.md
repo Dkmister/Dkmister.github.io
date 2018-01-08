@@ -15,3 +15,5 @@ permalink: /compsoc/
  <a href ="https://docs.google.com/document/d/1izQIIFQSfADSqNyP8vzECnkmI6ZD96fyMZbvKiKjrSc/edit?usp=sharing">Resenha sobre o artigo Why social media may not be so good for democracy </a>
  
  <a href="https://docs.google.com/presentation/d/1v1umY57rGssNJHtpAUvBx7WxZ2FtLTnGRL_Eg1GQ940/edit?usp=sharing">Apresentação sobre Segurança de Dados cedidos pelo Usuário</a>
+
+<a href="https://docs.google.com/document/d/1sMRInVCGL7VkLHf5xNsG2X6d0EHcZm4T13LZhm8ZXKA/edit?usp=sharing">O Ulysses dos Games</a>
